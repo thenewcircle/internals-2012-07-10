@@ -15,6 +15,12 @@ or
 
 or download a Zip archive by clicking the link above.
 
+== Course Survey
+
+IMPORTANT: Please complete the Marakana class survey at: http://marakana.com/survey
+
+Thanks!
+
 == Useful Links
 
 * Android Developer videos on YouTube: http://www.youtube.com/user/androiddevelopers
